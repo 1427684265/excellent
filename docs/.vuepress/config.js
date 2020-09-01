@@ -1,24 +1,24 @@
 module.exports = {
-  title: '世外陶源',
-  description: 'Yesterday is history，Tomorrow is a mystery，Today is a gift',
+  title: '九龙湖兔兔',
+  description: '代码千万行，注释第一行。编码不规范，同事两行泪。',
   base: '/',
-  port: '5578',
+  port: '8000',
   theme: 'reco',
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   themeConfig: {
     type: 'blog',
-    logo: '/avatar.png', // 左上角logo
-    author: 'Junan',
-    authorAvatar: '/avatar.png',
+    logo: '/12.jpeg', // 左上角logo
+    author: 'qiankun',
+    authorAvatar: '/12.jpeg',
     sidebar: 'auto',
     sidebarDepth: 2,
     mode: null, // 显示切换明暗风格按钮，null: 隐藏, true: 显示
     showSiteName: false, // 显示或隐藏左上角的网站名称
     showFooterThemeLink: false, // 显示或隐藏底部主题的链接
     nav: [
-      { text: '首页', link: '/' , icon: 'reco-home'},
+      { text: '首页', link: '/', icon: 'reco-home' },
       { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
       { text: '关于我', link: '/about/', icon: 'reco-account' }
     ],

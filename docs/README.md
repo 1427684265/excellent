@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: null
-heroText: 世外陶源
-bgImage: '/bg.png'
+heroText: 九龙湖兔兔
+bgImage: '/12.jpeg'
 bgImageStyle: {
   height: '450px'
 }

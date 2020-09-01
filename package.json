@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "个人博客 --- 世外陶源",
+  "description": "代码千万行, 注释第一行, 编码不规范, 同事两行泪",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taojunnan/blog.git"
+    "url": "git+https://github.com/guoqiankun/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taojunnan/blog/issues"
+    "url": "https://github.com/guoqiankun/blog/issues"
   },
-  "homepage": "https://github.com/taojunnan/blog#readme",
+  "homepage": "https://github.com/guoqiankun/blog#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.4.0",
     "@vuepress/plugin-medium-zoom": "^1.4.0",
